@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(body.jpg);
+    color: blanchedalmond;
+    backdrop-filter: blur(5px);
+    background-size: cover;
+}
+tr {
+    color: aliceblue;
+}
