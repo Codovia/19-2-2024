@@ -6,7 +6,7 @@
 body {
     background-image: url(body.jpg);
     color: blanchedalmond;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(8px);
     background-size: cover;
 }
 tr {
@@ -14,4 +14,15 @@ tr {
 }
 h2{
     text-align: center;
+}
+
+form{
+
+    font-weight: bold;
+    text-align: left;
+    max-width: 400px;
+    margin-left: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    
 }
